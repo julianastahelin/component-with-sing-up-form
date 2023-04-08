@@ -5,7 +5,7 @@
     }
 
     .main {
-        background-image: url("images/bg-intro-mobile.png");
+        background-image: url("../images/bg-intro-mobile.png");
         width: 100%; 
         margin: 0; 
         padding: 3rem 0;
