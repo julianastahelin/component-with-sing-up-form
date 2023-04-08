@@ -2,8 +2,6 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #fff;
     min-height: 100vh;
-    /* display: grid;
-    place-content: center; */
 }
 
 p {
@@ -12,7 +10,7 @@ p {
 
 .main {
     background-color: hsl(0, 100%, 74%);
-    background-image: url("/images/bg-intro-mobile.png");
+    background-image: url("../images/bg-intro-desktop.png");
     min-height: 100vh;
     display: flex;
 }
