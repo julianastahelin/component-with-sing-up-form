@@ -1,0 +1,42 @@
+@media (max-width:700px) {
+
+    body {
+        text-align: center;
+    }
+
+    .main {
+        background-image: url("/images/bg-intro-mobile.png");
+        width: 100%; 
+        margin: 0; 
+        padding: 3rem 0;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .trial-message-box {
+        padding: 5% 20%;
+        margin-bottom: 7%; 
+    }
+
+    .trial-message-text {
+        font-size: 0.8rem;
+    }
+
+    .client-info {
+        width: 100%;
+        padding: 6% 6%;
+        margin: 2% 0;
+    }
+
+    .btn {
+        font-size: 0.8rem;
+        padding: 5%;
+    }
+    
+    .terms-and-services-text {
+        padding: 0 7%;
+        font-size: 0.6rem;
+    } 
+}
